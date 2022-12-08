@@ -1,3 +1,3 @@
 # Youth-engagement-power-bi-dashboard-in-London-boroughs
 
-A report on youth engagements such as youth population, crime, asylum seekers, NEETs in London boroughs using power bi
+A report on youth engagements such as youth population, crime, asylum seekers, NEETs in London boroughs using power bi. The report can be downloaded for the complete view.
